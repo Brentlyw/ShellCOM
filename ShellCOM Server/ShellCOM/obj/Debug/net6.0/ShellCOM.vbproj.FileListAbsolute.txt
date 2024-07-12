@@ -1,0 +1,15 @@
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\bin\Debug\net6.0\ShellCOM.exe
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\bin\Debug\net6.0\ShellCOM.deps.json
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\bin\Debug\net6.0\ShellCOM.runtimeconfig.json
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\bin\Debug\net6.0\ShellCOM.dll
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\bin\Debug\net6.0\ShellCOM.pdb
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.vbproj.AssemblyReference.cache
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.AssemblyInfoInputs.cache
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.AssemblyInfo.vb
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.vbproj.CoreCompileInputs.cache
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.dll
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\refint\ShellCOM.dll
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.pdb
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ShellCOM.genruntimeconfig.cache
+C:\Users\TRR\source\repos\ShellCOM\ShellCOM\obj\Debug\net6.0\ref\ShellCOM.dll
